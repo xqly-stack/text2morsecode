@@ -28,8 +28,7 @@ Converts a string of text to Morse code audio.
 positional arguments:
   input_text            The text to be converted to Morse code.
   output_file
-                        The name of the output audio file (default:
-                        morse_code_audio.wav).
+                        The name of the output audio file
 
 optional arguments:
   -h, --help            show this help message and exit
