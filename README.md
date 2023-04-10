@@ -38,7 +38,7 @@ optional arguments:
 For example, to convert the text "Hello, world!" to Morse code and save the output as "my_morse_code.wav", run the following command:
 
 ````bash
-python text_to_morse_audio.py "Hello, world!" -o my_morse_code.wav
+python text_to_morse_audio.py "Hello, world!" my_morse_code.wav
 ````
 
 ## Examples
