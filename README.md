@@ -27,12 +27,12 @@ Converts a string of text to Morse code audio.
 
 positional arguments:
   input_text            The text to be converted to Morse code.
-
-optional arguments:
-  -h, --help            show this help message and exit
   output_file
                         The name of the output audio file (default:
                         morse_code_audio.wav).
+
+optional arguments:
+  -h, --help            show this help message and exit
 ````
 
 For example, to convert the text "Hello, world!" to Morse code and save the output as "my_morse_code.wav", run the following command:
