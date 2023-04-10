@@ -13,6 +13,10 @@ To install the required packages, run the following command:
 ````bash
 pip install -r requirements.txt
 ````
+Install ffmpeg aswell
+````bash
+apt install ffmpeg -y
+````
 
 ## Usage
 To use the Text-to-Morse Audio Converter, run the text_to_morse_audio.py script and provide the input text and output file name as command line arguments.
