@@ -21,7 +21,7 @@ apt install ffmpeg -y
 ## Usage
 To use the Text-to-Morse Audio Converter, run the text_to_morse_audio.py script and provide the input text and output file name as command line arguments.
 ````bash
-usage: text_to_morse_audio.py [-h] [-o OUTPUT] input_text
+usage: text_to_morse_audio.py [-h] input_text output_file 
 
 Converts a string of text to Morse code audio.
 
@@ -30,7 +30,7 @@ positional arguments:
 
 optional arguments:
   -h, --help            show this help message and exit
-  -o OUTPUT, --output OUTPUT
+  output_file
                         The name of the output audio file (default:
                         morse_code_audio.wav).
 ````
