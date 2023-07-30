@@ -3,7 +3,7 @@
 
 The Text-to-Morse Audio Converter is a Python function that converts a text message into a Morse code audio signal. The function takes a string of text as input and outputs an audio file containing the corresponding Morse code signal.
 
-*(Sidenote: The entire project was created with the help of ChatGPT to showcase the capabilities of A.I.)*
+
 ## Requirements
 This function requires the following packages to be installed:
 
